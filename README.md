@@ -74,13 +74,13 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-!![1st page](Ui 1.png)
+<img width="1869" height="828" alt="Image" src="https://github.com/user-attachments/assets/e4222da0-c73c-4dad-9596-5cbf21bea552" />
 The page to enter the choices.
 
-!![2nd page](Ui 2.png)
+<img width="1823" height="813" alt="Image" src="https://github.com/user-attachments/assets/5e1b0507-9179-46e3-9e64-d76b9cbc219a" />
 The page where choices are entered.
 
-!![3rd page](Ui 3.png)
+<img width="1852" height="806" alt="Image" src="https://github.com/user-attachments/assets/c979d2ce-7b16-419f-aab5-becab0b45a4c" />
 The page where a choice is picked up and given to the user.
 
 #### Diagrams
