@@ -87,7 +87,7 @@ The page where a choice is picked up and given to the user.
 
 **System Architecture:**
 
-![Architecture Diagram](WhatsApp Image 2026-02-27 at 15.33.29.jpeg)
+![Architecture Diagram]![Image](https://github.com/user-attachments/assets/a008d84d-08bc-4f4b-ad17-483364158825)
 Blame it On Fate! is a simple front-end web application built using HTML, CSS, and JavaScript.
 
 HTML handles the structure (task inputs, spin button, result display).
@@ -100,7 +100,7 @@ All processing happens on the client side in the browser. There is no backend or
 
 **Application Workflow:**
 
-![Workflow](WhatsApp Image 2026-02-27 at 15.33.29.jpeg)
+![Workflow]![Image](https://github.com/user-attachments/assets/a008d84d-08bc-4f4b-ad17-483364158825)
 The user enters 3–4 tasks into the input fields.
 
 The user clicks the Spin button.
